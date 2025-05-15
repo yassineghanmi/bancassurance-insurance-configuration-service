@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.gti</groupId>
 	<artifactId>insurance-configuration</artifactId>
-	<version>0.1</version>
+	<version>1.0.0</version>
 	<name>insurance-configuration</name>
 	<description>This Microservice for making the necessary configuration for each insurance</description>
 	<url/>
